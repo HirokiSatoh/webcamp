@@ -8,4 +8,7 @@
 [Finish]1-4
 [Start]1-5
 [Finish]1-5
+<<<<<<< HEAD
 [Fnish]1-5
+=======
+>>>>>>> refs/remotes/origin/master
