@@ -56,4 +56,7 @@
 [Start]3-6
 [Finish]3-6
 [Start]3-7
+<<<<<<< HEAD
 [Finish]3-7
+=======
+>>>>>>> d748725fa1a4bcabea4114b5fb8d4ca4deac0105
