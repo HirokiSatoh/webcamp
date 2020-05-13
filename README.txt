@@ -100,3 +100,4 @@
 [Finish]5-8
 [Finish]課題3
 [Start]6-1java
+[Finish]6-1
